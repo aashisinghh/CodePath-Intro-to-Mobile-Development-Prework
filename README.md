@@ -4,7 +4,7 @@
 This app says hello from me and clicking the "Change Text Color" button changes the text color to orange and clicking the "Change Background Color" button changes the background to purple.
 
 ### App Walk-though
-<img src="/Users/aashi/Downloads/ezgif.com-gif-maker.gif" width=200><br>
+<img src="https://i.imgur.com/GiLvq3L.gif" width=200><br>
 
 ### Required User Stories
 - [X] 1. User sees custom text in a label - Hello from {name}!
